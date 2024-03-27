@@ -181,6 +181,6 @@ def test_4():
 
     assert isinstance(flat_generator2(list_of_lists_2), types.GeneratorType)
 
-
+# Запускаем проверку
 if __name__ == '__main__':
     test_4()
